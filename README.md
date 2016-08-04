@@ -1,2 +1,2 @@
-# javascript-form
-In this example, a button and form have been added under the list. When the user clicks on the button to add a new item, the form will come into view.
+# Javascript Form
+In this example, a button and form have been added under the list. When the user clicks on the button to add a new item, the form will come into view. The form lets users add a new item to the list with a single text input and a submit button. The new item button is hidden when the form is in view. When the user presses the submit button, the new item is added to the bottom of the list. The form is also hidden and the new item button is shown again.
