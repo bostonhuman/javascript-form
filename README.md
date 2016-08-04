@@ -4,3 +4,4 @@ In this example, a button and form have been added under the list. When the user
 ## Components that make the app run
 
 * New jQuery objects are created to hold the new item button, the form to add new items, and the add button. These are cached in variables.
+* When the page loads, the CSS hides the new item button and shows the form. So jQuery methods show the new item button and hide the form.
